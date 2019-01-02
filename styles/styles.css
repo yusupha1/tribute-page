@@ -1,0 +1,35 @@
+body{
+    background-color:#e3e3e3;
+    color:black
+    line-height, 1.7;
+    font-family:Cambria,cochin,Georgia,Times,'Time New Roman',Serif
+    font-size,100%; 
+}
+
+
+
+img{
+    Max-width:100%;
+    height:auto;
+}
+
+
+#title{
+    text-align:center;
+}
+
+#img-div{
+    text-align:center;
+    background-color:#ff;
+    padding;10px;
+    {
+
+
+        #tribute-info{
+            Margin:0 auto 0 auto;
+            Margin:0 auto;
+            Width:60%;
+        }
+    }
+
+}
